@@ -1,0 +1,11 @@
+streamlit
+groq
+load_dotenv
+pydub
+gtts
+numpy
+pydub
+SpeechRecognition
+pyaudio
+pygame
+deepgram-sdk
